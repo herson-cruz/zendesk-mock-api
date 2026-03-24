@@ -1,7 +1,7 @@
 {
   "orders": [
     {
-      "order_id": "12345",
+      "id": "12345",
       "customer_name": "Alex Rivera",
       "status": "shipped",
       "order_date": "2026-03-20",
@@ -10,7 +10,7 @@
       "delivery_date": "2026-03-25"
     },
     {
-      "order_id": "99999",
+      "id": "99999",
       "customer_name": "Jordan Smith",
       "status": "processing",
       "order_date": "2026-03-23",
@@ -18,7 +18,7 @@
       "is_gift": false
     },
     {
-      "order_id": "10001",
+      "id": "10001",
       "customer_name": "Sam Taylor",
       "status": "delivered",
       "order_date": "2026-03-15",
